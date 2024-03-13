@@ -9,11 +9,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/database"
-	_ "github.com/btcsuite/btcd/database/ffldb"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/btcutil"
+	"github.com/dojimachain/btcd/chaincfg"
+	"github.com/dojimachain/btcd/database"
+	_ "github.com/dojimachain/btcd/database/ffldb"
+	"github.com/dojimachain/btcd/wire"
 	flags "github.com/jessevdk/go-flags"
 )
 

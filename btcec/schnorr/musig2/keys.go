@@ -9,9 +9,9 @@ import (
 
 	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
 
-	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/btcsuite/btcd/btcec/v2/schnorr"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/dojimachain/btcd/btcec/v2"
+	"github.com/dojimachain/btcd/btcec/v2/schnorr"
+	"github.com/dojimachain/btcd/chaincfg/chainhash"
 )
 
 var (

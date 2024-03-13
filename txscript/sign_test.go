@@ -9,12 +9,12 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/btcsuite/btcd/btcec/v2/schnorr"
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/btcec/v2"
+	"github.com/dojimachain/btcd/btcec/v2/schnorr"
+	"github.com/dojimachain/btcd/btcutil"
+	"github.com/dojimachain/btcd/chaincfg"
+	"github.com/dojimachain/btcd/chaincfg/chainhash"
+	"github.com/dojimachain/btcd/wire"
 	"github.com/stretchr/testify/require"
 )
 
