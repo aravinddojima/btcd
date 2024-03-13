@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/dojimachain/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcd/wire"
 )
 

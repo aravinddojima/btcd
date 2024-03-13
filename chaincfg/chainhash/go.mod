@@ -1,3 +1,3 @@
-module github.com/btcsuite/btcd/chaincfg/chainhash
+module github.com/dojimachain/btcd/chaincfg/chainhash
 
 go 1.17
