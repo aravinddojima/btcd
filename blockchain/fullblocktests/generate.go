@@ -18,13 +18,13 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/dojimachain/btcd/blockchain"
+	"github.com/dojimachain/btcd/btcec/v2"
+	"github.com/dojimachain/btcd/btcutil"
+	"github.com/dojimachain/btcd/chaincfg"
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/txscript"
+	"github.com/dojimachain/btcd/wire"
 )
 
 const (

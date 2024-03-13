@@ -9,9 +9,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/dojimachain/btcd/chaincfg"
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // newHashFromStr converts the passed big-endian hex string into a

@@ -10,7 +10,7 @@ import (
 	"io"
 
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out

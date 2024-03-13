@@ -15,10 +15,10 @@ import (
 	"runtime/debug"
 	"runtime/pprof"
 
-	"github.com/btcsuite/btcd/blockchain/indexers"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/limits"
-	"github.com/btcsuite/btcd/ossec"
+	"github.com/dojimachain/btcd/blockchain/indexers"
+	"github.com/dojimachain/btcd/database"
+	"github.com/dojimachain/btcd/limits"
+	"github.com/dojimachain/btcd/ossec"
 )
 
 const (

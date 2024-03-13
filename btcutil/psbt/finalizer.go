@@ -15,9 +15,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/btcsuite/btcd/btcec/v2/schnorr"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/btcec/v2/schnorr"
+	"github.com/dojimachain/btcd/txscript"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // isFinalized considers this input finalized if it contains at least one of

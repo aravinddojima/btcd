@@ -21,8 +21,8 @@ import (
 	"sync"
 
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/database"
+	"github.com/dojimachain/btcd/wire"
 )
 
 const (

@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/wire"
 )
 
 func TestSumUtxoInputValues(t *testing.T) {

@@ -24,7 +24,7 @@ import (
 	"time"
 
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // AddrManager provides a concurrency safe address manager for caching potential

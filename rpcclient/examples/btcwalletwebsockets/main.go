@@ -5,14 +5,14 @@
 package main
 
 import (
-	"os"
 	"log"
+	"os"
 	"path/filepath"
 	"time"
 
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/rpcclient"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/dojimachain/btcd/btcutil"
+	"github.com/dojimachain/btcd/rpcclient"
 )
 
 func main() {

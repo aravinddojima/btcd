@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // TestBadPC sets the pc to a deliberately bad result then confirms that Step

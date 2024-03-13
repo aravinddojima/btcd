@@ -10,11 +10,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/btcsuite/btcd/btcutil"
+	"github.com/dojimachain/btcd/btcutil"
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/database"
+	"github.com/dojimachain/btcd/txscript"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // mapSlice is a slice of maps for utxo entries.  The slice of maps are needed to

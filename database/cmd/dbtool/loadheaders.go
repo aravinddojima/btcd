@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
+	"github.com/dojimachain/btcd/database"
 )
 
 // headersCmd defines the configuration options for the loadheaders command.

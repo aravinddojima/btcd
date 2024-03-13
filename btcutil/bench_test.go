@@ -3,7 +3,7 @@ package btcutil_test
 import (
 	"testing"
 
-	"github.com/btcsuite/btcd/btcutil"
+	"github.com/dojimachain/btcd/btcutil"
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
 )
 

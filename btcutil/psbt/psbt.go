@@ -13,8 +13,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/btcutil"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // psbtMagicLength is the length of the magic bytes used to signal the start of

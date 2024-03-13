@@ -11,8 +11,8 @@ import (
 
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
 
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/btcutil"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // GetBlockHeaderVerboseResult models the data from the getblockheader command when

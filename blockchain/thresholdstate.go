@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // ThresholdState define the various threshold states used when voting on

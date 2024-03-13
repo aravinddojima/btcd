@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/dojimachain/btcd/chaincfg/chainhash"
 	"github.com/stretchr/testify/require"
 )
 

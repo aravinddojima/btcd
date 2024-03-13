@@ -15,11 +15,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/dojimachain/btcd/btcutil"
+	"github.com/dojimachain/btcd/chaincfg"
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/rpcclient"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/rpcclient"
+	"github.com/dojimachain/btcd/wire"
 )
 
 const (
@@ -570,10 +570,10 @@ func NextAvailablePortForProcess(pid int) int {
 		os.TempDir(), fmt.Sprintf("rpctest-port-pid-%d.lock", pid),
 	)
 	timeout := time.After(time.Second)
-	
+
 	var (
 		lockFileHandle *os.File
-		err error
+		err            error
 	)
 	for {
 		// Attempt to acquire the lock file. If it already exists, wait

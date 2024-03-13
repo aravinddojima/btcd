@@ -11,7 +11,7 @@ import (
 	"sync"
 
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimachain/btcd/wire"
 )
 
 // calcHashPrevOuts calculates a single hash of all the previous outputs

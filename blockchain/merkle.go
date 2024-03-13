@@ -10,9 +10,9 @@ import (
 	"io"
 	"math"
 
-	"github.com/btcsuite/btcd/btcutil"
+	"github.com/dojimachain/btcd/btcutil"
 	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/txscript"
+	"github.com/dojimachain/btcd/txscript"
 )
 
 const (
