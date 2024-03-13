@@ -12,12 +12,12 @@ import (
 	"testing"
 	"testing/quick"
 
+	"github.com/aravinddojima/btcd/btcec/v2"
+	"github.com/aravinddojima/btcd/btcec/v2/schnorr"
+	"github.com/aravinddojima/btcd/btcutil"
+	"github.com/aravinddojima/btcd/btcutil/hdkeychain"
+	"github.com/aravinddojima/btcd/chaincfg"
 	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
-	"github.com/dojimachain/btcd/btcec/v2"
-	"github.com/dojimachain/btcd/btcec/v2/schnorr"
-	"github.com/dojimachain/btcd/btcutil"
-	"github.com/dojimachain/btcd/btcutil/hdkeychain"
-	"github.com/dojimachain/btcd/chaincfg"
 	"github.com/stretchr/testify/require"
 )
 

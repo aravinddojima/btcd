@@ -5,7 +5,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // POutput is a struct encapsulating all the data that can be attached

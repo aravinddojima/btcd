@@ -5,10 +5,10 @@ package schnorr
 import (
 	"fmt"
 
+	"github.com/aravinddojima/btcd/btcec/v2"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
 	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
 	ecdsa_schnorr "github.com/decred/dcrd/dcrec/secp256k1/v4/schnorr"
-	"github.com/dojimachain/btcd/btcec/v2"
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
 )
 
 const (

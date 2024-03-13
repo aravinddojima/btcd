@@ -7,7 +7,7 @@ package addrmgr
 import (
 	"time"
 
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 func TstKnownAddressIsBad(ka *KnownAddress) bool {

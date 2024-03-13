@@ -10,9 +10,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/dojimachain/btcd/chaincfg"
-	"github.com/dojimachain/btcd/peer"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/peer"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // mockRemotePeer creates a basic inbound peer listening on the simnet port for

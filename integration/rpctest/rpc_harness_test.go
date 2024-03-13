@@ -14,11 +14,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dojimachain/btcd/btcutil"
-	"github.com/dojimachain/btcd/chaincfg"
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/dojimachain/btcd/txscript"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/btcutil"
+	"github.com/aravinddojima/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/txscript"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 func testSendOutputs(r *Harness, t *testing.T) {

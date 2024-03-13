@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/aravinddojima/btcd/blockchain"
+	"github.com/aravinddojima/btcd/btcutil"
 	"github.com/btcsuite/btclog"
-	"github.com/dojimachain/btcd/blockchain"
-	"github.com/dojimachain/btcd/btcutil"
 )
 
 // blockProgressLogger provides periodic logging for other services in order

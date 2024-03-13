@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dojimachain/btcd/addrmgr"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/addrmgr"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // TestIPTypes ensures the various functions which determine the type of an IP

@@ -25,8 +25,8 @@
 //	        "fmt"
 //	        "log"
 //
-//	        "github.com/dojimachain/btcd/btcutil"
-//	        "github.com/dojimachain/btcd/chaincfg"
+//	        "github.com/aravinddojima/btcd/btcutil"
+//	        "github.com/aravinddojima/btcd/chaincfg"
 //	)
 //
 //	var testnet = flag.Bool("testnet", false, "operate on the testnet Bitcoin network")

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dojimachain/btcd/btcutil"
+	"github.com/aravinddojima/btcd/btcutil"
 	flags "github.com/jessevdk/go-flags"
 )
 

@@ -11,9 +11,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/dojimachain/btcd/database"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/database"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 const (

@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out

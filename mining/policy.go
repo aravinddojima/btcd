@@ -5,9 +5,9 @@
 package mining
 
 import (
-	"github.com/dojimachain/btcd/blockchain"
-	"github.com/dojimachain/btcd/btcutil"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/blockchain"
+	"github.com/aravinddojima/btcd/btcutil"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 const (

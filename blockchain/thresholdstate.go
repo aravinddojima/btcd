@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // ThresholdState define the various threshold states used when voting on

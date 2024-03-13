@@ -9,9 +9,9 @@ import (
 	"errors"
 	"io"
 
-	"github.com/dojimachain/btcd/btcec/v2"
-	"github.com/dojimachain/btcd/btcec/v2/schnorr"
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/btcec/v2"
+	"github.com/aravinddojima/btcd/btcec/v2/schnorr"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
 )
 
 const (

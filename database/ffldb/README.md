@@ -1,9 +1,9 @@
 ffldb
 =====
 
-[![Build Status](https://github.com/dojimachain/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/dojimachain/btcd/actions)
+[![Build Status](https://github.com/aravinddojima/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/aravinddojima/btcd/actions)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://pkg.go.dev/github.com/dojimachain/btcd/database/ffldb?status.png)](https://pkg.go.dev/github.com/dojimachain/btcd/database/ffldb)
+[![GoDoc](https://pkg.go.dev/github.com/aravinddojima/btcd/database/ffldb?status.png)](https://pkg.go.dev/github.com/aravinddojima/btcd/database/ffldb)
 =======
 
 Package ffldb implements a driver for the database package that uses leveldb for

@@ -12,8 +12,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/dojimachain/btcd/txscript"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/txscript"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // WriteTxWitness is a utility function due to non-exported witness

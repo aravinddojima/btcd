@@ -3,8 +3,8 @@ package blockchain
 import (
 	"math/bits"
 
-	"github.com/dojimachain/btcd/btcutil"
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/btcutil"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
 )
 
 // rollingMerkleTreeStore calculates the merkle root by only allocating O(logN)

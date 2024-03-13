@@ -11,8 +11,8 @@ import (
 	"math/big"
 	"testing"
 
+	"github.com/aravinddojima/btcd/btcec/v2"
 	"github.com/decred/dcrd/dcrec/secp256k1/v4"
-	"github.com/dojimachain/btcd/btcec/v2"
 )
 
 // hexToBytes converts the passed hex string into bytes and will panic if there

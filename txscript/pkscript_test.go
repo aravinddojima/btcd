@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // TestParsePkScript ensures that the supported script types can be parsed

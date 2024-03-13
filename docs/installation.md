@@ -31,7 +31,7 @@ verify the signature perform the following:
 
 ## Windows Installation
 
-* Install the MSI available at: [btcd windows installer](https://github.com/dojimachain/btcd/releases)
+* Install the MSI available at: [btcd windows installer](https://github.com/aravinddojima/btcd/releases)
 * Launch btcd from the Start Menu
 
 ## Linux/BSD/MacOSX/POSIX Installation
@@ -52,8 +52,8 @@ recommended that `GOPATH` is set to a directory in your home directory such as
 * Run the following commands to obtain btcd, all dependencies, and install it:
 
 ```bash
-git clone https://github.com/dojimachain/btcd $GOPATH/src/github.com/dojimachain/btcd
-cd $GOPATH/src/github.com/dojimachain/btcd
+git clone https://github.com/aravinddojima/btcd $GOPATH/src/github.com/aravinddojima/btcd
+cd $GOPATH/src/github.com/aravinddojima/btcd
 go install -v . ./cmd/...
 ```
 
@@ -73,4 +73,4 @@ Typically btcd will run and start downloading the block chain with no extra
 configuration necessary, however, there is an optional method to use a
 `bootstrap.dat` file that may speed up the initial block chain download process.
 
-* [Using bootstrap.dat](https://github.com/dojimachain/btcd/blob/master/docs/configuration.md#using-bootstrapdat)
+* [Using bootstrap.dat](https://github.com/aravinddojima/btcd/blob/master/docs/configuration.md#using-bootstrapdat)

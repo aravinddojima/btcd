@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dojimachain/btcd/database"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/database"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // TestErrNotInMainChain ensures the functions related to errNotInMainChain work

@@ -8,9 +8,9 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/dojimachain/btcd/btcec/v2"
-	"github.com/dojimachain/btcd/btcec/v2/ecdsa"
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/btcec/v2"
+	"github.com/aravinddojima/btcd/btcec/v2/ecdsa"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
 )
 
 // genRandomSig returns a random message, a signature of the message under the

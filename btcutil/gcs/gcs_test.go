@@ -11,7 +11,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/dojimachain/btcd/btcutil/gcs"
+	"github.com/aravinddojima/btcd/btcutil/gcs"
 )
 
 var (

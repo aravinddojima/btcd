@@ -7,7 +7,7 @@ package blockchain
 import (
 	"testing"
 
-	"github.com/dojimachain/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/chaincfg"
 )
 
 // TestNotifications ensures that notification callbacks are fired on events.

@@ -11,8 +11,8 @@ package integration
 import (
 	"testing"
 
-	"github.com/dojimachain/btcd/chaincfg"
-	"github.com/dojimachain/btcd/integration/rpctest"
+	"github.com/aravinddojima/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/integration/rpctest"
 	"github.com/stretchr/testify/require"
 )
 

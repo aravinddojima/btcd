@@ -1,8 +1,8 @@
 package blockchain
 
 import (
-	"github.com/dojimachain/btcd/chaincfg"
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
 )
 
 // ChainCtx is an interface that abstracts away blockchain parameters.

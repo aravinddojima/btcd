@@ -16,11 +16,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dojimachain/btcd/blockchain"
-	"github.com/dojimachain/btcd/chaincfg"
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/dojimachain/btcd/integration/rpctest"
-	"github.com/dojimachain/btcd/rpcclient"
+	"github.com/aravinddojima/btcd/blockchain"
+	"github.com/aravinddojima/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/integration/rpctest"
+	"github.com/aravinddojima/btcd/rpcclient"
 )
 
 func testGetBestBlock(r *rpctest.Harness, t *testing.T) {

@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/aravinddojima/btcd/wire"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/dojimachain/btcd/wire"
 )
 
 func init() {

@@ -5,7 +5,7 @@
 package blockchain
 
 import (
-	"github.com/dojimachain/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/chaincfg"
 )
 
 const (

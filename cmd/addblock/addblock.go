@@ -8,11 +8,11 @@ import (
 	"os"
 	"path/filepath"
 
+	"github.com/aravinddojima/btcd/blockchain"
+	"github.com/aravinddojima/btcd/blockchain/indexers"
+	"github.com/aravinddojima/btcd/database"
+	"github.com/aravinddojima/btcd/limits"
 	"github.com/btcsuite/btclog"
-	"github.com/dojimachain/btcd/blockchain"
-	"github.com/dojimachain/btcd/blockchain/indexers"
-	"github.com/dojimachain/btcd/database"
-	"github.com/dojimachain/btcd/limits"
 )
 
 const (

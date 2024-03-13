@@ -5,8 +5,8 @@
 package main
 
 import (
-	"github.com/dojimachain/btcd/chaincfg"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // activeNetParams is a pointer to the parameters specific to the

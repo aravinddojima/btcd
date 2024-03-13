@@ -1,9 +1,9 @@
 wire
 ====
 
-[![Build Status](https://github.com/dojimachain/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/dojimachain/btcd/actions)
+[![Build Status](https://github.com/aravinddojima/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/aravinddojima/btcd/actions)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/dojimachain/btcd/wire)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/aravinddojima/btcd/wire)
 =======
 
 Package wire implements the bitcoin wire protocol.  A comprehensive suite of
@@ -19,7 +19,7 @@ protocol level.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/dojimachain/btcd/wire
+$ go get -u github.com/aravinddojima/btcd/wire
 ```
 
 ## Bitcoin Message Overview

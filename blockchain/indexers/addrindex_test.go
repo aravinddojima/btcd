@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // addrIndexBucket provides a mock address index database bucket by implementing

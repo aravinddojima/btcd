@@ -5,7 +5,7 @@
 package psbt
 
 import (
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 // MinTxVersion is the lowest transaction version that we'll permit.

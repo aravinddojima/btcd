@@ -14,10 +14,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dojimachain/btcd/blockchain"
-	"github.com/dojimachain/btcd/chaincfg"
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/dojimachain/btcd/integration/rpctest"
+	"github.com/aravinddojima/btcd/blockchain"
+	"github.com/aravinddojima/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/integration/rpctest"
 )
 
 const (

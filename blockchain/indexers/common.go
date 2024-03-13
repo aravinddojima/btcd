@@ -11,9 +11,9 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/dojimachain/btcd/blockchain"
-	"github.com/dojimachain/btcd/btcutil"
-	"github.com/dojimachain/btcd/database"
+	"github.com/aravinddojima/btcd/blockchain"
+	"github.com/aravinddojima/btcd/btcutil"
+	"github.com/aravinddojima/btcd/database"
 )
 
 var (

@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dojimachain/btcd/chaincfg/chainhash"
-	"github.com/dojimachain/btcd/wire"
+	"github.com/aravinddojima/btcd/chaincfg/chainhash"
+	"github.com/aravinddojima/btcd/wire"
 )
 
 func TestInPlaceSort(t *testing.T) {

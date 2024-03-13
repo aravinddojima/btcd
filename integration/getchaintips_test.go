@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dojimachain/btcd/btcjson"
-	"github.com/dojimachain/btcd/btcutil"
-	"github.com/dojimachain/btcd/chaincfg"
-	"github.com/dojimachain/btcd/integration/rpctest"
+	"github.com/aravinddojima/btcd/btcjson"
+	"github.com/aravinddojima/btcd/btcutil"
+	"github.com/aravinddojima/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/integration/rpctest"
 	"github.com/stretchr/testify/require"
 )
 

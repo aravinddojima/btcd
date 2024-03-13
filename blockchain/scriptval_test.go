@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dojimachain/btcd/txscript"
+	"github.com/aravinddojima/btcd/txscript"
 )
 
 // TestCheckBlockScripts ensures that validating the all of the scripts in a

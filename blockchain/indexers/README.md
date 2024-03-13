@@ -1,9 +1,9 @@
 indexers
 ========
 
-[![Build Status](https://github.com/dojimachain/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/dojimachain/btcd/actions)
+[![Build Status](https://github.com/aravinddojima/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/aravinddojima/btcd/actions)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://pkg.go.dev/github.com/dojimachain/btcd/blockchain/indexers?status.png)](https://pkg.go.dev/github.com/dojimachain/btcd/blockchain/indexers)
+[![GoDoc](https://pkg.go.dev/github.com/aravinddojima/btcd/blockchain/indexers?status.png)](https://pkg.go.dev/github.com/aravinddojima/btcd/blockchain/indexers)
 
 Package indexers implements optional block chain indexes.
 
@@ -23,7 +23,7 @@ via an RPC interface.
 ## Installation
 
 ```bash
-$ go get -u github.com/dojimachain/btcd/blockchain/indexers
+$ go get -u github.com/aravinddojima/btcd/blockchain/indexers
 ```
 
 ## License

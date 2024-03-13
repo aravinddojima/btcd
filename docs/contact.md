@@ -11,5 +11,5 @@
 
 ## Issue Tracker
 
-The [integrated github issue tracker](https://github.com/dojimachain/btcd/issues)
+The [integrated github issue tracker](https://github.com/aravinddojima/btcd/issues)
 is used for this project.

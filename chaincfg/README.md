@@ -1,9 +1,9 @@
 chaincfg
 ========
 
-[![Build Status](https://github.com/dojimachain/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/dojimachain/btcd/actions)
+[![Build Status](https://github.com/aravinddojima/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/aravinddojima/btcd/actions)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/dojimachain/btcd/chaincfg)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/aravinddojima/btcd/chaincfg)
 
 Package chaincfg defines chain configuration parameters for the three standard
 Bitcoin networks and provides the ability for callers to define their own custom
@@ -24,8 +24,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dojimachain/btcd/btcutil"
-	"github.com/dojimachain/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/btcutil"
+	"github.com/aravinddojima/btcd/chaincfg"
 )
 
 var testnet = flag.Bool("testnet", false, "operate on the testnet Bitcoin network")
@@ -56,7 +56,7 @@ func main() {
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/dojimachain/btcd/chaincfg
+$ go get -u github.com/aravinddojima/btcd/chaincfg
 ```
 
 ## GPG Verification Key

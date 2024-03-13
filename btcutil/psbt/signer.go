@@ -10,7 +10,7 @@ package psbt
 // is in the correct state.
 
 import (
-	"github.com/dojimachain/btcd/txscript"
+	"github.com/aravinddojima/btcd/txscript"
 )
 
 // SignOutcome is a enum-like value that expresses the outcome of a call to the

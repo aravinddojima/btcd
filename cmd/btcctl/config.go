@@ -13,9 +13,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/dojimachain/btcd/btcjson"
-	"github.com/dojimachain/btcd/btcutil"
-	"github.com/dojimachain/btcd/chaincfg"
+	"github.com/aravinddojima/btcd/btcjson"
+	"github.com/aravinddojima/btcd/btcutil"
+	"github.com/aravinddojima/btcd/chaincfg"
 	flags "github.com/jessevdk/go-flags"
 )
 

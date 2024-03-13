@@ -1,9 +1,9 @@
 treap
 =====
 
-[![Build Status](https://github.com/dojimachain/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/dojimachain/btcd/actions)
+[![Build Status](https://github.com/aravinddojima/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/aravinddojima/btcd/actions)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://pkg.go.dev/github.com/dojimachain/btcd/database/internal/treap?status.png)](https://pkg.go.dev/github.com/dojimachain/btcd/database/internal/treap)
+[![GoDoc](https://pkg.go.dev/github.com/aravinddojima/btcd/database/internal/treap?status.png)](https://pkg.go.dev/github.com/aravinddojima/btcd/database/internal/treap)
 
 Package treap implements a treap data structure that is used to hold ordered
 key/value pairs using a combination of binary search tree and heap semantics.
