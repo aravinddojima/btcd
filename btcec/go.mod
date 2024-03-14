@@ -1,4 +1,4 @@
-module github.com/aravinddojima/btcd/btcec/v2
+module github.com/aravinddojima/btcd/btcec
 
 go 1.17
 
