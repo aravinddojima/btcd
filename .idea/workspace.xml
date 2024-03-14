@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa049716-0eb8-4b37-9607-955b54a3cec8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/btcec/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/btcec/go.mod" afterDir="false" />
-    </list>
+    <list default="true" id="fa049716-0eb8-4b37-9607-955b54a3cec8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,7 @@
     "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "64e9a975",
+    "git-widget-placeholder": "m1",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/Users/aravind/btcd",
