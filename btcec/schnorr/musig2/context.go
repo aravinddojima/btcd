@@ -5,8 +5,8 @@ package musig2
 import (
 	"fmt"
 
-	"github.com/aravinddojima/btcd/btcec/v2"
-	"github.com/aravinddojima/btcd/btcec/v2/schnorr"
+	"github.com/aravinddojima/btcd/btcec"
+	"github.com/aravinddojima/btcd/btcec/schnorr"
 )
 
 var (

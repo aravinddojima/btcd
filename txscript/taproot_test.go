@@ -12,8 +12,8 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/aravinddojima/btcd/btcec/v2"
-	"github.com/aravinddojima/btcd/btcec/v2/schnorr"
+	"github.com/aravinddojima/btcd/btcec"
+	"github.com/aravinddojima/btcd/btcec/schnorr"
 	"github.com/aravinddojima/btcd/btcutil"
 	"github.com/aravinddojima/btcd/btcutil/hdkeychain"
 	"github.com/aravinddojima/btcd/chaincfg"

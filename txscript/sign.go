@@ -7,11 +7,11 @@ package txscript
 import (
 	"errors"
 
-	"github.com/aravinddojima/btcd/btcec/v2"
-	"github.com/aravinddojima/btcd/btcec/v2/schnorr"
+	"github.com/aravinddojima/btcd/btcec"
+	"github.com/aravinddojima/btcd/btcec/schnorr"
 	"github.com/aravinddojima/btcd/btcutil"
 
-	"github.com/aravinddojima/btcd/btcec/v2/ecdsa"
+	"github.com/aravinddojima/btcd/btcec/ecdsa"
 	"github.com/aravinddojima/btcd/chaincfg"
 	"github.com/aravinddojima/btcd/wire"
 )

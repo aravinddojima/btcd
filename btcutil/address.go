@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/aravinddojima/btcd/btcec/v2"
+	"github.com/aravinddojima/btcd/btcec"
 	"github.com/aravinddojima/btcd/btcutil/base58"
 	"github.com/aravinddojima/btcd/btcutil/bech32"
 	"github.com/aravinddojima/btcd/chaincfg"

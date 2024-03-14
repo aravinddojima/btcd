@@ -1,6 +1,7 @@
 module github.com/aravinddojima/btcd
 
 require (
+	github.com/aravinddojima/btcd/btcec v0.0.0
 	github.com/aravinddojima/btcd/btcutil v0.0.0-00010101000000-000000000000
 	github.com/aravinddojima/btcd/chaincfg/chainhash v1.1.0
 	github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f
@@ -29,7 +30,7 @@ require (
 )
 
 replace (
-	github.com/aravinddojima/btcd/btcec/v2 => ./btcec
+	github.com/aravinddojima/btcd/btcec => ./btcec
 	github.com/aravinddojima/btcd/btcutil => ./btcutil
 	github.com/aravinddojima/btcd/chaincfg/chainhash => ./chaincfg/chainhash
 )

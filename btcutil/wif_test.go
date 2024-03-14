@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/aravinddojima/btcd/btcec/v2"
+	"github.com/aravinddojima/btcd/btcec"
 	. "github.com/aravinddojima/btcd/btcutil"
 	"github.com/aravinddojima/btcd/chaincfg"
 )

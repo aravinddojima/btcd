@@ -9,8 +9,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/aravinddojima/btcd/btcec/v2"
-	"github.com/aravinddojima/btcd/btcec/v2/schnorr"
+	"github.com/aravinddojima/btcd/btcec"
+	"github.com/aravinddojima/btcd/btcec/schnorr"
 	"github.com/aravinddojima/btcd/chaincfg/chainhash"
 )
 

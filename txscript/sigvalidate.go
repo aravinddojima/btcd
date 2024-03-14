@@ -7,9 +7,9 @@ package txscript
 import (
 	"fmt"
 
-	"github.com/aravinddojima/btcd/btcec/v2"
-	"github.com/aravinddojima/btcd/btcec/v2/ecdsa"
-	"github.com/aravinddojima/btcd/btcec/v2/schnorr"
+	"github.com/aravinddojima/btcd/btcec"
+	"github.com/aravinddojima/btcd/btcec/ecdsa"
+	"github.com/aravinddojima/btcd/btcec/schnorr"
 	"github.com/aravinddojima/btcd/chaincfg/chainhash"
 	"github.com/aravinddojima/btcd/wire"
 )

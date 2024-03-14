@@ -4,9 +4,9 @@ github.com/aravinddojima/btcd v0.22.0-beta.0.20220111032746-97732e52810c/go.mod 
 github.com/aravinddojima/btcd v0.23.5-0.20231215221805-96c9fd8078fd/go.mod h1:nm3Bko6zh6bWP60UxwoT5LzdGJsQJaPo6HjduXq9p6A=
 github.com/aravinddojima/btcd v0.23.5-0.20231219003633-4c2ce6daed8f h1:E+dQ8sNtK/lOdfeflUKkRLXe/zW7I333C7HhaoASjZA=
 github.com/aravinddojima/btcd v0.23.5-0.20231219003633-4c2ce6daed8f/go.mod h1:KVEB81PybLGYzpf1db/kKNi1ZEbUsiVGeTGhKuOl5AM=
-github.com/aravinddojima/btcd/btcec/v2 v2.1.0/go.mod h1:2VzYrv4Gm4apmbVVsSq5bqf1Ec8v56E48Vt0Y/umPgA=
-github.com/aravinddojima/btcd/btcec/v2 v2.1.3 h1:xM/n3yIhHAhHy04z4i43C8p4ehixJZMsnrVJkgl+MTE=
-github.com/aravinddojima/btcd/btcec/v2 v2.1.3/go.mod h1:ctjw4H1kknNJmRN4iP1R7bTQ+v3GJkZBd6mui8ZsAZE=
+github.com/aravinddojima/btcd/btcec v2.1.0/go.mod h1:2VzYrv4Gm4apmbVVsSq5bqf1Ec8v56E48Vt0Y/umPgA=
+github.com/aravinddojima/btcd/btcec v2.1.3 h1:xM/n3yIhHAhHy04z4i43C8p4ehixJZMsnrVJkgl+MTE=
+github.com/aravinddojima/btcd/btcec v2.1.3/go.mod h1:ctjw4H1kknNJmRN4iP1R7bTQ+v3GJkZBd6mui8ZsAZE=
 github.com/aravinddojima/btcd/btcutil v1.0.0/go.mod h1:Uoxwv0pqYWhD//tfTiipkxNfdhG9UrLwaeswfjfdF0A=
 github.com/aravinddojima/btcd/btcutil v1.1.0/go.mod h1:5OapHB7A2hBBWLm48mmw4MOHNJCcUBTwmWH/0Jn8VHE=
 github.com/aravinddojima/btcd/btcutil v1.1.4 h1:mWvWRLRIPuoeZsVRpc0xNCkfeNxWy1E4jIZ06ZpGI1A=

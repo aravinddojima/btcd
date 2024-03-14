@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/aravinddojima/btcd/btcec/v2"
+	"github.com/aravinddojima/btcd/btcec"
 	"github.com/aravinddojima/btcd/btcutil"
 	"github.com/aravinddojima/btcd/chaincfg"
 	"github.com/aravinddojima/btcd/chaincfg/chainhash"

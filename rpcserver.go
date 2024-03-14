@@ -29,7 +29,7 @@ import (
 
 	"github.com/aravinddojima/btcd/blockchain"
 	"github.com/aravinddojima/btcd/blockchain/indexers"
-	"github.com/aravinddojima/btcd/btcec/v2/ecdsa"
+	"github.com/aravinddojima/btcd/btcec/ecdsa"
 	"github.com/aravinddojima/btcd/btcjson"
 	"github.com/aravinddojima/btcd/btcutil"
 	"github.com/aravinddojima/btcd/chaincfg"
