@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/aead/siphash v1.0.1
 	github.com/aravinddojima/btcd/btcec v0.0.0
-	github.com/aravinddojima/btcd/chaincfg/chainhash v1.1.1-0.20240313121052-f95688cd8cbe
+	github.com/aravinddojima/btcd/chaincfg/chainhash v0.0.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1
 	github.com/kkdai/bstream v0.0.0-20161212061736-f391b8402d23

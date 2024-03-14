@@ -3,7 +3,7 @@ module github.com/aravinddojima/btcd
 require (
 	github.com/aravinddojima/btcd/btcec v0.0.0
 	github.com/aravinddojima/btcd/btcutil v0.0.0-00010101000000-000000000000
-	github.com/aravinddojima/btcd/chaincfg/chainhash v1.1.1-0.20240313121052-f95688cd8cbe
+	github.com/aravinddojima/btcd/chaincfg/chainhash v0.0.0
 	github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f
 	github.com/btcsuite/go-socks v0.0.0-20170105172521-4720035b7bfd
 	github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792
