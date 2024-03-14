@@ -16,4 +16,4 @@ replace (
 	github.com/aravinddojima/btcd => ../../btcd
 	github.com/aravinddojima/btcd/btcec => ../btcec
 	github.com/aravinddojima/btcd/chaincfg/chainhash => ../chaincfg/chainhash
-	)
+)
